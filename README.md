@@ -13,7 +13,7 @@ This **Movie Recommender App** helps users discover the **top recommended movies
 
 ## 🛠 How It Works
 1. **Select a movie** from the dropdown list. 🎞️
-2. Click **"Recommend"** to get **top 5 similar movies**. 🎥
+2. Click **"Recommend"** to get **top similar movies**. 🎥
 3. The system displays **recommended movies** along with **posters** fetched from TMDb. 🖼️
 4. Users can **instantly discover movies they might love** and save time searching! 🕒
 
