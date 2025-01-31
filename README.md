@@ -6,7 +6,7 @@ Find the best movie recommendations instantly! 🎥🍿
 This **Movie Recommender App** helps users discover the **top recommended movies** based on their likings. The system fetches **movie posters** from **TMDb API** to enhance the experience.
 
 ## 🚀 Features
-- ✅ **Instant Movie Recommendations** – Get top 5 recommendations.
+- ✅ **Instant Movie Recommendations** – Get top-recommendations.
 - ✅ **TMDb API Integration** – Fetches high-quality posters.
 - ✅ **Fast & Easy to Use** – Built with **Streamlit**, providing an **interactive UI**.
 - ✅ **Saves Your Time** – Quickly discover movies you might love.
